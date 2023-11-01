@@ -8,16 +8,42 @@
       "type": "STRING",
       "required": true,
       "choices": [
-        { "name": "startup", "value": "startup" },
-        { "name": "version", "value": "version" },
-        { "name": "map", "value": "map" },
-        { "name": "egg", "value": "egg" },
-        { "name": "server icon", "value": "server icon" },
-        { "name": "perpanjang", "value": "perpanjang" },
-        { "name": "resourcepack", "value": "resourcepack" },
-        { "name": "crack", "value": "crack" },
-        { "name": "sftp", "value": "sftp" }
+        {
+          "name": "startup",
+          "value": "startup"
+        },
+        {
+          "name": "version",
+          "value": "version"
+        },
+        {
+          "name": "map",
+          "value": "map"
+        },
+        {
+          "name": "egg",
+          "value": "egg"
+        },
+        {
+          "name": "server icon",
+          "value": "server icon"
+        },
+        {
+          "name": "perpanjang",
+          "value": "perpanjang"
+        },
+        {
+          "name": "resourcepack",
+          "value": "resourcepack"
+        },
+        {
+          "name": "crack",
+          "value": "crack"
+        },
+        {
+          "name": "sftp",
+          "value": "sftp"
+        }
       ]
     }
-  }
-}
+  ],
