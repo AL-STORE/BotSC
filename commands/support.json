@@ -1,49 +1,23 @@
 {
   "name": "support",
-  "description": "Support command",
+  "description": "Support Command",
   "options": [
     {
+      "type": 3,
       "name": "parameters",
-      "description": "Parameters",
-      "type": "STRING",
+      "description": "Pilih support parameter",
       "required": true,
       "choices": [
-        {
-          "name": "startup",
-          "value": "startup"
-        },
-        {
-          "name": "version",
-          "value": "version"
-        },
-        {
-          "name": "map",
-          "value": "map"
-        },
-        {
-          "name": "egg",
-          "value": "egg"
-        },
-        {
-          "name": "server icon",
-          "value": "server icon"
-        },
-        {
-          "name": "perpanjang",
-          "value": "perpanjang"
-        },
-        {
-          "name": "resourcepack",
-          "value": "resourcepack"
-        },
-        {
-          "name": "crack",
-          "value": "crack"
-        },
-        {
-          "name": "sftp",
-          "value": "sftp"
-        }
+        { "name": "Startup", "value": "startup" },
+        { "name": "Version", "value": "version" },
+        { "name": "World", "value": "world" },
+        { "name": "Egg", "value": "egg" },
+        { "name": "ServerIcon", "value": "servericon" },
+        { "name": "Perpanjang", "value": "perpanjang" },
+        { "name": "ResourcePack", "value": "resourcepack" },
+        { "name": "Crack", "value": "crack" },
+        { "name": "SFTP", "value": "sftp" }
       ]
     }
-  ],
+  ]
+}

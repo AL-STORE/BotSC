@@ -1,0 +1,14 @@
+{
+    "title": "Crack Server",
+    "description": "Kamu bisa ke menu file, lalu cari dan buka file yang bernama **server.properties**. Setelah itu cari **online-mode=true**, ubah yang awalnya **true** menjadi **false**. Setelah itu tinggal di **start/restart** servernya",
+    "color": "#483d8b",
+    "image": "https://www.imgbly.com/ib/n9PjH7MbAq.png",
+    "footer": {
+      "text": "AL Store Team",
+      "iconURL": "https://cdn.discordapp.com/attachments/1109801358149828648/1126031929792282654/image_FlJ2OsYf_1688534516702_512.jpg"
+    },
+    "button": {
+      "label": "Link Video",
+      "url": "https://youtu.be/vk8NF8UTzm8?si=CzHd_NEBueHj_kD6"
+    }
+}

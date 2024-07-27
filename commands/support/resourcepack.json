@@ -1,0 +1,14 @@
+{
+    "title": "Resource Pack Servers",
+    "description": "kamu bisa pergi ke **files** lalu scroll ke bawah dan cari **server.properties** lalu click dan cari **resource-pack=** , dan masukan link resourcepack nya disana, untuk mendapatkannya kalian bisa upload ke google drive/mediafire buat linknya",
+    "color": "#483d8b",
+    "image": "https://www.imgbly.com/ib/TT4reXKc0w.png",
+    "footer": {
+      "text": "AL Store Team",
+      "iconURL": "https://cdn.discordapp.com/attachments/1109801358149828648/1126031929792282654/image_FlJ2OsYf_1688534516702_512.jpg"
+    },
+    "button": {
+      "label": "Link Video",
+      "url": "https://youtu.be/1s5Bz4akUiA?si=B0UA1gUZYT9bhUqo"
+    }
+}

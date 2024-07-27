@@ -1,0 +1,14 @@
+{
+    "title": "Cara Ganti Map",
+    "description": "Kamu bisa terlebih dahulu menghapus folder **world**. \nSetelah Itu kamu upload mapnya, lalu di ekstrak dan ubah namanya menjadi **world**\n\nJika sudah, kamu bisa **restart/start**",
+    "color": "#483d8b",
+    "image": "https://www.imgbly.com/ib/qUXpUlPQio.png",
+    "footer": {
+      "text": "AL Store Team",
+      "iconURL": "https://cdn.discordapp.com/attachments/1109801358149828648/1126031929792282654/image_FlJ2OsYf_1688534516702_512.jpg"
+    },
+    "button": {
+      "label": "Link Video",
+      "url": "https://youtu.be/OQTvYzIVtTQ?si=g-uUIxU_4zil30Wh"
+    }
+}  
